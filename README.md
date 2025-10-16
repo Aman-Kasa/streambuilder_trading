@@ -18,14 +18,14 @@
       <sub>Live stock prices & trades</sub>
     </td>
     <td align="center">
-      <img src="images/charts.png" width="200" alt="Charts Tab"/>
+      <img src="images/chart.png" width="200" alt="Charts Tab"/>
       <br/>
       <b>📊 Charts</b>
       <br/>
       <sub>Interactive price charts</sub>
     </td>
     <td align="center">
-      <img src="images/portfolio.png" width="200" alt="Portfolio Tab"/>
+      <img src="images/portofolio.png" width="200" alt="Portfolio Tab"/>
       <br/>
       <b>💰 Portfolio</b>
       <br/>
@@ -41,18 +41,18 @@
       <sub>Breaking financial news</sub>
     </td>
     <td align="center">
-      <img src="images/system.png" width="200" alt="System Tab"/>
+      <img src="images/system_control.png" width="200" alt="System Tab"/>
       <br/>
       <b>🖥️ System</b>
       <br/>
       <sub>Server health monitoring</sub>
     </td>
     <td align="center">
-      <img src="images/app_demo.gif" width="200" alt="Live Demo"/>
+      <img src="images/dashboard.png" width="200" alt="App Overview"/>
       <br/>
-      <b>🎬 Live Demo</b>
+      <b>🎬 Overview</b>
       <br/>
-      <sub>Real-time updates in action</sub>
+      <sub>StreamBuilder in action</sub>
     </td>
   </tr>
 </table>
