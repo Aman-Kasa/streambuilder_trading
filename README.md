@@ -6,6 +6,57 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![StreamBuilder](https://img.shields.io/badge/StreamBuilder-FF6B6B?style=for-the-badge&logo=flutter&logoColor=white)
 
+## 📱 **App Screenshots**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/dashboard.png" width="200" alt="Dashboard Tab"/>
+      <br/>
+      <b>🏠 Dashboard</b>
+      <br/>
+      <sub>Live stock prices & trades</sub>
+    </td>
+    <td align="center">
+      <img src="images/charts.png" width="200" alt="Charts Tab"/>
+      <br/>
+      <b>📊 Charts</b>
+      <br/>
+      <sub>Interactive price charts</sub>
+    </td>
+    <td align="center">
+      <img src="images/portfolio.png" width="200" alt="Portfolio Tab"/>
+      <br/>
+      <b>💰 Portfolio</b>
+      <br/>
+      <sub>Live portfolio tracking</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/news.png" width="200" alt="News Tab"/>
+      <br/>
+      <b>📰 News</b>
+      <br/>
+      <sub>Breaking financial news</sub>
+    </td>
+    <td align="center">
+      <img src="images/system.png" width="200" alt="System Tab"/>
+      <br/>
+      <b>🖥️ System</b>
+      <br/>
+      <sub>Server health monitoring</sub>
+    </td>
+    <td align="center">
+      <img src="images/app_demo.gif" width="200" alt="Live Demo"/>
+      <br/>
+      <b>🎬 Live Demo</b>
+      <br/>
+      <sub>Real-time updates in action</sub>
+    </td>
+  </tr>
+</table>
+
 **A professional Flutter application demonstrating StreamBuilder widget with real-time data streaming**
 
 *Built for educational purposes to showcase advanced Flutter concepts*
