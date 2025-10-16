@@ -315,14 +315,14 @@ This is an educational project, but contributions are welcome!
 
 </div>
 
----
+----------------------------------------------------------------
 
 ## 📞 **Contact**
 
 - **Developer**: AMAN-KASA
 - **Email**: a.kasa@alustudent.com
-- **GitHub**: https://github.com/Aman-Kasa/streambuilder_trading.git
+- **GitHub**: https://github.com/Aman-Kasa
 
----
+-------------------------------------------------------------------
 
 *This README was crafted with care to showcase the StreamBuilder Trading Platform project. Happy coding! 🚀*
